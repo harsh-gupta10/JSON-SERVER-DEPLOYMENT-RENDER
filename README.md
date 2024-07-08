@@ -1,11 +1,5 @@
-# projectname-mock-api
 
-#### Prerequisite
-* Create a folder
-```
-mkdir <projectname>-mock-api
-cd <projectname>-mock-api
-```
+
 
 #### Step 1: Create a node js project
 ```
